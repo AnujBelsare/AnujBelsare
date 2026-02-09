@@ -13,32 +13,21 @@ const anuj = {
 ```
 
 ## 🛠️ Tech Stack
+<p align='center'>
+    <img src='https://skillicons.dev/icons?i=js,ts,py,html,css' />
+</p>
 
-### 🔤 Languages
-- JavaScript  
-- TypeScript  
-- HTML  
-- CSS   
+<p align='center'>
+    <img src='https://skillicons.dev/icons?i=next,react,tailwind,electron,vite' />
+</p>
 
-### 🎨 Frontend
-- Next.js  
-- React  
-- Tailwind CSS   
+<p align='center'>
+    <img src='https://skillicons.dev/icons?i=express,nodejs,mongodb,postgres,firebase' />
+</p>
 
-### ⚙️ Backend & Databases
-- Node.js  
-- Express.js  
-- MongoDB   
-- Firebase  
-
-### 🧰 Tools & Platforms
-- Git  
-- GitHub  
-- VS Code  
-- Cursor  
-- Docker  
-- Vercel  
-- Postman  
+<p align='center'>
+    <img src='https://skillicons.dev/icons?i=postman,github,docker,aws,supabase' />
+</p>
 
 
 ## 🎓 Education
@@ -48,11 +37,13 @@ Maharashtra Institute of Technology, Chh. Sambhajinagar *(Expected 2026)*
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div align="center" >
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-belsare)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.anujbelsare.tech)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belsareanuj7+git@gmail.com)
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anuj-belsare)
+  &nbsp;
+  [![Portfolio](https://skillicons.dev/icons?i=vercel)](https://www.anujbelsare.tech)
+  &nbsp;
+  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:belsareanuj7+git@gmail.com)
 
 </div>
 
