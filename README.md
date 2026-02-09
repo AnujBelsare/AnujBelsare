@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 <div align="center">
-  <img src="./output-onlinegiftools.gif" width="300" alt="Profile GIF">
+  <img src="./output-onlinegiftools.gif" width="240" alt="Profile GIF">
 </div>
 <p>
 I'm an ambitious Electronics and Computer Engineering student with a passion for building scalable web applications. I specialize in the MERN stack and love translating complex engineering concepts into effective software solutions. Currently focused on creating modern, performant web experiences with Next.js and TypeScript.
