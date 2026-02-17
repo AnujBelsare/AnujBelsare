@@ -6,8 +6,11 @@
 <div align="center">
   <img src="./output-onlinegiftools.gif" width="240" alt="Profile GIF">
 </div>
+&nbsp;
 <p>
+<i>
 I'm an ambitious Electronics and Computer Engineering student with a passion for building scalable web applications. I specialize in the MERN stack and love translating complex engineering concepts into effective software solutions. Currently focused on creating modern, performant web experiences with Next.js and TypeScript.
+</i>
 </p>
 <br/>
 
